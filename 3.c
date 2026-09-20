@@ -1,10 +1,10 @@
-#include <stdio.h>
+п»ї#include <stdio.h>
 #include <locale.h>
 
 int main()
 {
 	setlocale(LC_CTYPE, "RUS");
-	puts("Дата рождения");
+	puts("Р”Р°С‚Р° СЂРѕР¶РґРµРЅРёСЏ");
 
 	getchar();
 
