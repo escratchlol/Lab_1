@@ -1,13 +1,13 @@
-#include <stdio.h>
+п»ї#include <stdio.h>
 #include <locale.h>
 
 int main()
 {
 	setlocale(LC_CTYPE, "RUS");
-	puts("Нажмите Enter для продолжения...");
+	puts("РќР°Р¶РјРёС‚Рµ Enter РґР»СЏ РїСЂРѕРґРѕР»Р¶РµРЅРёСЏ...");
 
 	getchar();
 
-	puts("Продолжение программы");
+	puts("РџСЂРѕРґРѕР»Р¶РµРЅРёРµ РїСЂРѕРіСЂР°РјРјС‹");
 	return 0;
 }

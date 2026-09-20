@@ -1,9 +1,9 @@
-#include <stdio.h>
+п»ї#include <stdio.h>
 #include <locale.h>
 int main()
 {
 	setlocale(LC_CTYPE, "RUS");
-	puts("Кораблик:");
+	puts("РљРѕСЂР°Р±Р»РёРє:");
 
 	getchar();
 	puts("                |\\              ");
